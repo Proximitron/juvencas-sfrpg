@@ -39,7 +39,7 @@
     {
       "name": "juvencas-items",
       "label": "Juvencas Items",
-      "system": "pf2e",
+      "system": "sfrpg",
       "path": "./packs/juvencas-items",
       "type": "Item",
 	"ownership": {
@@ -51,7 +51,7 @@
     {
       "name": "item-2-items",
       "label": "Items (Shared)",
-	  "system": "pf2e",
+	  "system": "sfrpg",
       "path": "packs/item-2-items.db",
       "entity": "Item",
       "type": "Item",
